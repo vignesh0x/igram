@@ -19,11 +19,6 @@ Welcome to **Photogram**, a sleek social media platform inspired by Instagram, b
 - **JavaScript** 💻
 
 
-## 🚧 Current Progress
-
-- **Learning and building daily**: Each day is a new challenge. 
-- **PHP exploration**: From basics to building real features.
-
 ## 🗺️ Roadmap
 
 - **Phase 1** 🛠️: Uploading photos, creating albums.
